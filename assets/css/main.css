@@ -1667,3 +1667,12 @@ input, select, textarea {
     border: none;
     border-radius: 0;
 }
+
+#header .logo img {
+    max-width: 160px;   /* PROMENI OVU VREDNOST */
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
