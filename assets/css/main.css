@@ -1298,7 +1298,7 @@ input, select, textarea {
     border-radius: 0;
 		}
 #header .logo img {
-    max-width: 10px;   /* PROMENI OVU VREDNOST */
+    max-width: 50px;   /* PROMENI OVU VREDNOST */
     width: 100%;
     height: auto;
     display: block;
@@ -1682,6 +1682,7 @@ input, select, textarea {
     display: block;
     margin: 0 auto;
 }
+
 
 
 
